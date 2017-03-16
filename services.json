@@ -1,8 +1,8 @@
-{"services":[{
+[{
 	"name":"notify",
 	"desc": "something anout notify",
 	"img":"http://www.halkidikiproperties.com/images/news_images/online_anathesi/%CE%97%CE%BB%CE%B5%CE%BA%CF%84%CF%81%CE%BF%CE%BD%CE%B9%CE%BA%CE%AE%20%CE%B1%CE%BD%CE%AC%CE%B8%CE%B5%CF%83%CE%B7%20%CE%BA%CE%B1%CE%B9%20%CE%B5%CF%80%CE%B9%CE%BB%CE%BF%CE%B3%CE%AE%20%CF%80%CE%B1%CE%BA%CE%AD%CF%84%CE%BF%CF%85%20%CE%B4%CE%B9%CE%B1%CF%86%CE%AE%CE%BC%CE%B9%CF%83%CE%B7%CF%82%20%CE%B1%CE%BA%CE%B9%CE%BD%CE%AE%CF%84%CE%BF%CF%85%202.jpg",
 	"url":{"v1.0.0":"https://github.com/DevlessTeam/service-hub"},
 	"author":"",
 	"dep":[]
-}]}
+}]
