@@ -1,8 +1,0 @@
-[{
-	"name":"notify",
-	"desc": "something anout notify",
-	"img":"http://devless.herokuapp.com/service_views/DV_STORE/images/notif.png",
-	"url":"http://localhost:8000/install_service?url=https://raw.githubusercontent.com/eddymens/moon/master/moon.srv",
-	"author":"Eddymens",
-	"dep":[]
-}]
