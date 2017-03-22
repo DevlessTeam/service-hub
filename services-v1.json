@@ -1,6 +1,6 @@
 [{
 	"name":"notify",
-	"desc": "Send sms,emails and push",
+	"desc": "Send sms,emails and push within your app ",
 	"img":"http://devless.herokuapp.com/service_views/DV_STORE/images/notif.png",
 	"url":"http://localhost:8000/install_service?url=https://raw.githubusercontent.com/eddymens/notify/master/notify (2).srv",
 	"author":"Kofi Codes",
