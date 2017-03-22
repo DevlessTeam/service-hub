@@ -8,7 +8,7 @@ The Service Hub hosts an index of all services available on the DevLess framewor
 * Send in a Pull Request for merge 
 * If everything goes smoothly, once merged your service should show up on the ServiceHub tab of DevLess.
 
-Still having troubles hit me up `edmond@devles`
+Still having troubles? Hit me up `edmond@devless.io`
 ## Using Services/Modules 
 Once you have (DevLess)[devless.io] setup you can install services from the Hub Tab within the framework.
 
