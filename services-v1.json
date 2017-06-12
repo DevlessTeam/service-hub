@@ -1,8 +1,1 @@
-[{
-	"name":"notify",
-	"desc": "Send sms,emails and push within your app ",
-	"img":"http://res.cloudinary.com/devless-img/image/upload/v1492153344/notif_fs28cg.png",
-	"url":"https://raw.githubusercontent.com/eddymens/notify/master/notify.srv",
-	"author":"Kofi Codes",
-	"dep":[]
-}]
+
