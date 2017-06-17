@@ -1,1 +1,9 @@
 
+[{
+ 	"name":"notify",
+ 	"desc": "Send sms,emails and push within your app ",
+ 	"img":"https://www.dropbox.com/s/dl43zskohjba5zy/notify.png?dl=0",
+ 	"url":"https://raw.githubusercontent.com/eddymens/notify/master/notify.srv",
+ 	"author":"Kofi Codes",
+ 	"dep":[]
+ }]
