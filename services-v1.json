@@ -2,7 +2,7 @@
 [{
  	"name":"notify",
  	"desc": "Send sms,emails and push within your app ",
- 	"img":"https://www.dropbox.com/s/dl43zskohjba5zy/notify.png?dl=0",
+ 	"img":"https://photos-3.dropbox.com/t/2/AABoVagFHOWwxi55LxsuCSfTcOmtsATtOh5WMycKa-4qWw/12/17761272/png/32x32/3/1497697200/0/2/notify.png/EIWfng0YuZQKIAIoAg/BgjnwrvwzPfB93_KpBuSrqwAppzPWhAC-i_MGJ_oJBE?dl=0&size=1280x960&size_mode=3",
  	"url":"https://raw.githubusercontent.com/eddymens/notify/master/notify.srv",
  	"author":"Kofi Codes",
  	"dep":[]
