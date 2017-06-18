@@ -10,14 +10,14 @@
  	"name":"webconsole",
  	"desc": "Gain teminal access to your server from within DevLess ",
  	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/term2.png",
- 	"url":"https://github.com/EDDYMENS/webconsole/blob/master/webconsole.srv",
+ 	"url":"https://github.com/EDDYMENS/webconsole/raw/master/webconsole.srv",
  	"author":"Eddymens",
  	"dep":[]
  },{
  	"name":"db_manager",
  	"desc": "A database manager built right into DevLess. ",
  	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/db.png",
- 	"url":"https://github.com/EDDYMENS/db_manager/blob/master/db_manager.srv",
+ 	"url":"https://github.com/EDDYMENS/db_manager/master/db_manager.srv",
  	"author":"Eddymens",
  	"dep":[]
  }
