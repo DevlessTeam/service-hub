@@ -8,7 +8,7 @@
  	"dep":[]
  },{
  	"name":"webconsole",
- 	"desc": "Gain teminal access to your server from within DevLess",
+ 	"desc": "Gain teminal access to your server from within DevLess ",
  	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/term.png",
  	"url":"https://github.com/EDDYMENS/webconsole/blob/master/webconsole.srv",
  	"author":"Eddymens",
