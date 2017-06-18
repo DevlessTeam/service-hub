@@ -9,7 +9,7 @@
  },{
  	"name":"webconsole",
  	"desc": "Gain teminal access to your server from within DevLess",
- 	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/terminal2.jpg",
+ 	"img":"https://github.com/EDDYMENS/service-images/blob/master/term.png",
  	"url":"https://github.com/EDDYMENS/webconsole/blob/master/webconsole.srv",
  	"author":"Eddymens",
  	"dep":[]
