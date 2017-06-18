@@ -13,6 +13,13 @@
  	"url":"https://github.com/EDDYMENS/webconsole/blob/master/webconsole.srv",
  	"author":"Eddymens",
  	"dep":[]
+ },{
+ 	"name":"db_manager",
+ 	"desc": "A database manager built right into DevLess. ",
+ 	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/db.png",
+ 	"url":"https://github.com/EDDYMENS/db_manager/blob/master/db_manager.srv",
+ 	"author":"Eddymens",
+ 	"dep":[]
  }
  
 ]
