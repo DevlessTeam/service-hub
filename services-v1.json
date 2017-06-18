@@ -17,7 +17,7 @@
  	"name":"db_manager",
  	"desc": "A database manager built right into DevLess. ",
  	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/db.png",
- 	"url":"https://github.com/EDDYMENS/db_manager/master/db_manager.srv",
+ 	"url":"https://github.com/EDDYMENS/db_manager/raw/master/db_manager.srv",
  	"author":"Eddymens",
  	"dep":[]
  }
