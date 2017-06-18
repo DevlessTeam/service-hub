@@ -6,4 +6,13 @@
  	"url":"https://raw.githubusercontent.com/eddymens/notify/master/notify.srv",
  	"author":"Kofi Codes",
  	"dep":[]
- }]
+ },{
+ 	"name":"webconsole",
+ 	"desc": "Gain teminal access to your server from within DevLess",
+ 	"img":"https://photos-2.dropbox.com/t/2/AACJQYOAKOPprpg83UdgGGr6chyZdI3VsqZ0VPMzBunHFw/12/17761272/png/32x32/1/_/1/2/terminal.png/EIWfng0YupQKIAIoAg/O9NlWZuRZV6unM0NWySof9aeJfcJwqNd5ofbhTJGS-8?size=1280x960&size_mode=3",
+ 	"url":"https://github.com/EDDYMENS/webconsole/blob/master/webconsole.srv",
+ 	"author":"Eddymens",
+ 	"dep":[]
+ }
+ 
+]
