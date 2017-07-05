@@ -23,7 +23,7 @@
  },{
  	"name":"weather",
  	"desc": "Get info about current weather for any city",
- 	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/clouds.png",
+ 	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/cloud1.png",
  	"url":"https://github.com/EDDYMENS/dv-weather/raw/master/Weather.srv",
  	"author":"Harisu",
  	"dep":[]
