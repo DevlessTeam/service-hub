@@ -27,6 +27,13 @@
  	"url":"https://github.com/EDDYMENS/dv-weather/raw/master/Weather.srv",
  	"author":"Harisu",
  	"dep":[]
+ },{
+ 	"name":"biz_math",
+ 	"desc": "Perform biz math like finding interest etc",
+ 	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/bm.png",
+ 	"url":"https://github.com/EDDYMENS/dv-biz_math/raw/master/BussinessMath.srv",
+ 	"author":"Harisu",
+ 	"dep":[]
  }
  
 ]
