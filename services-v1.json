@@ -20,6 +20,13 @@
  	"url":"https://github.com/EDDYMENS/db_manager/raw/master/db_manager.srv",
  	"author":"Eddymens",
  	"dep":[]
+ },{
+ 	"name":"weather",
+ 	"desc": "Get info about current weather for any city",
+ 	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/clouds.png",
+ 	"url":"https://github.com/EDDYMENS/dv-weather/raw/master/Weather.srv",
+ 	"author":"Harisu",
+ 	"dep":[]
  }
  
 ]
