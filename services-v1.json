@@ -31,7 +31,7 @@
  	"name":"biz_math",
  	"desc": "Perform biz math like finding interest etc",
  	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/bm.png",
- 	"url":"https://github.com/EDDYMENS/dv-biz_math/raw/master/BussinessMath.srv",
+ 	"url":"https://github.com/EDDYMENS/dv-biz_math/raw/master/businessMath.srv",
  	"author":"Harisu",
  	"dep":[]
  }
