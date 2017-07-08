@@ -5,6 +5,7 @@
  	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/notify.png",
  	"url":"https://raw.githubusercontent.com/eddymens/notify/master/notify.srv",
  	"author":"Kofi Codes",
+  "authorLink":"#",
  	"dep":[]
  },{
  	"name":"webconsole",
@@ -12,6 +13,7 @@
  	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/term2.png",
  	"url":"https://github.com/EDDYMENS/webconsole/raw/master/webconsole.srv",
  	"author":"Eddymens",
+  "authorLink":"https://github.com/eddymens",
  	"dep":[]
  },{
  	"name":"db_manager",
@@ -19,6 +21,7 @@
  	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/db.png",
  	"url":"https://github.com/EDDYMENS/db_manager/raw/master/db_manager.srv",
  	"author":"Eddymens",
+  "authorLink":"https://github.com/eddymens",
  	"dep":[]
  },{
  	"name":"weather",
@@ -26,6 +29,7 @@
  	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/cloud1.png",
  	"url":"https://github.com/EDDYMENS/dv-weather/raw/master/Weather.srv",
  	"author":"Harisu",
+  "authorLink":"#",
  	"dep":[]
  },{
  	"name":"biz_math",
@@ -33,6 +37,7 @@
  	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/bm.png",
  	"url":"https://github.com/EDDYMENS/dv-biz_math/raw/master/businessMath.srv",
  	"author":"Harisu",
+  "authorLink":"#",
  	"dep":[]
  }
  
