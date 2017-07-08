@@ -4,6 +4,7 @@
  	"desc": "Send sms,emails and push within your app ",
  	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/notify.png",
  	"url":"https://raw.githubusercontent.com/eddymens/notify/master/notify.srv",
+  "serviceRepo":"https://raw.githubusercontent.com/eddymens/notify",
  	"author":"Kofi Codes",
   "authorLink":"#",
  	"dep":[]
@@ -12,6 +13,7 @@
  	"desc": "Gain teminal access to your server from within DevLess ",
  	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/term2.png",
  	"url":"https://github.com/EDDYMENS/webconsole/raw/master/webconsole.srv",
+  "serviceRepo":"https://github.com/EDDYMENS/webconsole",
  	"author":"Eddymens",
   "authorLink":"https://github.com/eddymens",
  	"dep":[]
@@ -20,6 +22,7 @@
  	"desc": "A database manager built right into DevLess. ",
  	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/db.png",
  	"url":"https://github.com/EDDYMENS/db_manager/raw/master/db_manager.srv",
+  "serviceRepo":"https://github.com/EDDYMENS/db_manager",
  	"author":"Eddymens",
   "authorLink":"https://github.com/eddymens",
  	"dep":[]
@@ -28,6 +31,7 @@
  	"desc": "Get info about current weather for any city",
  	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/cloud1.png",
  	"url":"https://github.com/EDDYMENS/dv-weather/raw/master/Weather.srv",
+  "serviceRepo":"https://github.com/EDDYMENS/dv-weather/",
  	"author":"Harisu",
   "authorLink":"#",
  	"dep":[]
@@ -36,6 +40,7 @@
  	"desc": "Perform biz math like finding interest etc",
  	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/bm.png",
  	"url":"https://github.com/EDDYMENS/dv-biz_math/raw/master/businessMath.srv",
+   "serviceRepo":"https://github.com/EDDYMENS/dv-biz_math",
  	"author":"Harisu",
   "authorLink":"#",
  	"dep":[]
