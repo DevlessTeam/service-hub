@@ -25,7 +25,7 @@
   "serviceRepo":"https://github.com/EDDYMENS/db_manager",
  	"author":"Eddymens",
   "authorLink":"https://github.com/eddymens",
- 	"dep":["https://github.com/EDDYMENS/webconsole/raw/master/webconsole.srv"]
+ 	"dep":["https://github.com/EDDYMENS/webconsole/raw/master/webconsole.srv","https://github.com/EDDYMENS/dv-weather/raw/master/Weather.srv"]
  },{
  	"name":"weather",
  	"desc": "Get info about current weather for any city",
