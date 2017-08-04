@@ -44,6 +44,15 @@
  	"author":"Harisu",
   "authorLink":"#",
  	"dep":[]
+ },{
+ 	"name":"cloudinary",
+ 	"desc": "Cloudinary is the image back-end for web and mobile developers.",
+ 	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/cloudinary.png",
+ 	"url":"https://github.com/EDDYMENS/dv-biz_math/raw/master/uploader%20(5).srv",
+   "serviceRepo":"https://github.com/EDDYMENS/cloudinary",
+ 	"author":"Harisu",
+  "authorLink":"#",
+ 	"dep":[]
  }
  
 ]
