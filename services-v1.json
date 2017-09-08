@@ -44,6 +44,15 @@
  	"author":"Harisu",
   "authorLink":"#",
  	"dep":[]
+ },{
+ 	"name":"Image_uploader",
+ 	"desc": "saves images to the cloundinary cloud service",
+ 	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/cloudinary.png",
+ 	"url":"https://github.com/EDDYMENS/cloudinary/raw/master/uploader%20(5).srv",
+   "serviceRepo":"https://github.com/EDDYMENS/cloudinary",
+ 	"author":"Harisu",
+  "authorLink":"#",
+ 	"dep":[]
  }
  
 ]
