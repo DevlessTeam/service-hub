@@ -57,11 +57,11 @@
  	"name":"ShopIt",
  	"desc": "Quickly build an ecommerce shop",
  	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/online-shop.png",
- 	"url":"https://github.com/EDDYMENS/shopit/raw/master/shopit.srv",
+ 	"url":"https://github.com/EDDYMENS/shopit/raw/master/shopit.srv", 
    "serviceRepo":"https://github.com/EDDYMENS/shopit",
  	"author":"Kofi Codes",
   "authorLink":"https://github.com/koficodes",
- 	"dep":[]
+ 	"dep":["https://github.com/EDDYMENS/cloudinary/raw/master/uploader.srv"]
  }
  
 ]
