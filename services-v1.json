@@ -92,5 +92,14 @@
       "author":"Eddymens",
       "authorLink":"https://github.com/EDDYMENS", 
       "dep":[]
+   },{  
+      "name":"MnotifyGH",
+      "desc":"Send SMS from your app using Mnotify",
+      "img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/sms.png",
+      "url":"https://github.com/EDDYMENS/gmailer/raw/master/mnotify.srv",
+      "serviceRepo":"https://github.com/EDDYMENS/mnotify",
+      "author":"Eddymens",
+      "authorLink":"https://github.com/EDDYMENS", 
+      "dep":[]
    }
 ]
