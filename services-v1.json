@@ -62,6 +62,15 @@
  	"author":"Kofi Codes",
   "authorLink":"https://github.com/koficodes",
  	"dep":["https://github.com/EDDYMENS/cloudinary/raw/master/uploader.srv"]
- }
+ },{
+ 	"name":"Gmailer",
+ 	"desc": "Send emails from your app using GMail",
+ 	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/gmail.png",
+ 	"url":"https://github.com/EDDYMENS/gmailer/raw/master/gmailer.srv", 
+   "serviceRepo":"https://github.com/EDDYMENS/gmailer",
+ 	"author":"Eddymens",
+  "authorLink":"https://github.com/EDDYMENS",
+ 	}
+ 
  
 ]
