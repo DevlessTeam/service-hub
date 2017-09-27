@@ -1,76 +1,95 @@
+[  
+   {  
+      "name":"notify",
+      "desc":"Send sms,emails and push within your app ",
+      "img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/notify.png",
+      "url":"https://raw.githubusercontent.com/eddymens/notify/master/notify.srv",
+      "serviceRepo":"https://raw.githubusercontent.com/eddymens/notify",
+      "author":"Kofi Codes",
+      "authorLink":"https://github.com/koficodes",
+      "dep":[  
 
-[{
- 	"name":"notify",
- 	"desc": "Send sms,emails and push within your app ",
- 	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/notify.png",
- 	"url":"https://raw.githubusercontent.com/eddymens/notify/master/notify.srv",
-  "serviceRepo":"https://raw.githubusercontent.com/eddymens/notify",
- 	"author":"Kofi Codes",
-  "authorLink":"https://github.com/koficodes",
- 	"dep":[]
- },{
- 	"name":"webconsole",
- 	"desc": "Gain teminal access to your server from within DevLess ",
- 	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/term2.png",
- 	"url":"https://github.com/EDDYMENS/webconsole/raw/master/webconsole.srv",
-  "serviceRepo":"https://github.com/EDDYMENS/webconsole",
- 	"author":"Eddymens",
-  "authorLink":"https://github.com/eddymens",
- 	"dep":[]
- },{
- 	"name":"db_manager",
- 	"desc": "A database manager built right into DevLess. ",
- 	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/db.png",
- 	"url":"https://github.com/EDDYMENS/db_manager/raw/master/db_manager.srv",
-  "serviceRepo":"https://github.com/EDDYMENS/db_manager",
- 	"author":"Eddymens",
-  "authorLink":"https://github.com/eddymens",
- 	"dep":[]
- },{
- 	"name":"weather",
- 	"desc": "Get info about current weather for any city",
- 	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/cloud1.png",
- 	"url":"https://github.com/EDDYMENS/dv-weather/raw/master/Weather.srv",
-  "serviceRepo":"https://github.com/EDDYMENS/dv-weather/",
- 	"author":"Harisu",
-  "authorLink":"#",
- 	"dep":[]
- },{
- 	"name":"biz_math",
- 	"desc": "Perform biz math like finding interest etc",
- 	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/bm.png",
- 	"url":"https://github.com/EDDYMENS/dv-biz_math/raw/master/businessMath.srv",
-   "serviceRepo":"https://github.com/EDDYMENS/dv-biz_math",
- 	"author":"Harisu",
-  "authorLink":"#",
- 	"dep":[]
- },{
- 	"name":"Image_uploader",
- 	"desc": "saves images to the cloundinary cloud service",
- 	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/cloudinary.png",
- 	"url":"https://github.com/EDDYMENS/cloudinary/raw/master/uploader.srv",
-   "serviceRepo":"https://github.com/EDDYMENS/cloudinary",
- 	"author":"Harisu",
-  "authorLink":"#",
- 	"dep":[]
- },{
- 	"name":"ShopIt",
- 	"desc": "Quickly build an ecommerce shop",
- 	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/online-shop.png",
- 	"url":"https://github.com/EDDYMENS/shopit/raw/master/shopit.srv", 
-   "serviceRepo":"https://github.com/EDDYMENS/shopit",
- 	"author":"Kofi Codes",
-  "authorLink":"https://github.com/koficodes",
- 	"dep":["https://github.com/EDDYMENS/cloudinary/raw/master/uploader.srv"]
- },{
- 	"name":"Gmailer",
- 	"desc": "Send emails from your app using GMail",
- 	"img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/gmail.png",
- 	"url":"https://github.com/EDDYMENS/gmailer/raw/master/gmailer.srv", 
-   "serviceRepo":"https://github.com/EDDYMENS/gmailer",
- 	"author":"Eddymens",
-  "authorLink":"https://github.com/EDDYMENS"
- 	}
- 
- 
+      ]
+   },
+   {  
+      "name":"webconsole",
+      "desc":"Gain teminal access to your server from within DevLess ",
+      "img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/term2.png",
+      "url":"https://github.com/EDDYMENS/webconsole/raw/master/webconsole.srv",
+      "serviceRepo":"https://github.com/EDDYMENS/webconsole",
+      "author":"Eddymens",
+      "authorLink":"https://github.com/eddymens",
+      "dep":[  
+
+      ]
+   },
+   {  
+      "name":"db_manager",
+      "desc":"A database manager built right into DevLess. ",
+      "img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/db.png",
+      "url":"https://github.com/EDDYMENS/db_manager/raw/master/db_manager.srv",
+      "serviceRepo":"https://github.com/EDDYMENS/db_manager",
+      "author":"Eddymens",
+      "authorLink":"https://github.com/eddymens",
+      "dep":[  
+
+      ]
+   },
+   {  
+      "name":"weather",
+      "desc":"Get info about current weather for any city",
+      "img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/cloud1.png",
+      "url":"https://github.com/EDDYMENS/dv-weather/raw/master/Weather.srv",
+      "serviceRepo":"https://github.com/EDDYMENS/dv-weather/",
+      "author":"Harisu",
+      "authorLink":"#",
+      "dep":[  
+
+      ]
+   },
+   {  
+      "name":"biz_math",
+      "desc":"Perform biz math like finding interest etc",
+      "img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/bm.png",
+      "url":"https://github.com/EDDYMENS/dv-biz_math/raw/master/businessMath.srv",
+      "serviceRepo":"https://github.com/EDDYMENS/dv-biz_math",
+      "author":"Harisu",
+      "authorLink":"#",
+      "dep":[  
+
+      ]
+   },
+   {  
+      "name":"Image_uploader",
+      "desc":"saves images to the cloundinary cloud service",
+      "img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/cloudinary.png",
+      "url":"https://github.com/EDDYMENS/cloudinary/raw/master/uploader.srv",
+      "serviceRepo":"https://github.com/EDDYMENS/cloudinary",
+      "author":"Harisu",
+      "authorLink":"#",
+      "dep":[  
+
+      ]
+   },
+   {  
+      "name":"ShopIt",
+      "desc":"Quickly build an ecommerce shop",
+      "img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/online-shop.png",
+      "url":"https://github.com/EDDYMENS/shopit/raw/master/shopit.srv",
+      "serviceRepo":"https://github.com/EDDYMENS/shopit",
+      "author":"Kofi Codes",
+      "authorLink":"https://github.com/koficodes",
+      "dep":[  
+         "https://github.com/EDDYMENS/cloudinary/raw/master/uploader.srv"
+      ]
+   },
+   {  
+      "name":"Gmailer",
+      "desc":"Send emails from your app using GMail",
+      "img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/gmail.png",
+      "url":"https://github.com/EDDYMENS/gmailer/raw/master/gmailer.srv",
+      "serviceRepo":"https://github.com/EDDYMENS/gmailer",
+      "author":"Eddymens",
+      "authorLink":"https://github.com/EDDYMENS"
+   }
 ]
