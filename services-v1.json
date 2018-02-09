@@ -101,5 +101,14 @@
       "author":"Eddymens",
       "authorLink":"https://github.com/EDDYMENS", 
       "dep":[]
+   },{  
+      "name":"PHPClasses
+      "desc":"Use PHP clases withing Devless Rules",
+      "img":"https://raw.githubusercontent.com/EDDYMENS/phpClass/master/php%20(1).png",
+      "url":"https://github.com/EDDYMENS/phpClass/raw/master/phpClass.srv",
+      "serviceRepo":"https://github.com/EDDYMENS/phpClass",
+      "author":"Eddymens",
+      "authorLink":"https://github.com/EDDYMENS", 
+      "dep":[]
    }
 ]
