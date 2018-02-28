@@ -87,7 +87,7 @@
       "name":"ZOHO MAil",
       "desc":"Send emails from your app using Zoho Mail",
       "img":"https://raw.githubusercontent.com/EDDYMENS/zohoMail/master/email.png",
-      "url":"https://github.com/EDDYMENS/gmailer/raw/master/zohoMail.srv",
+      "url":"https://github.com/EDDYMENS/zohoMail/raw/master/zohoMail.srv",
       "serviceRepo":"https://github.com/EDDYMENS/zohoMail",
       "author":"Eddymens",
       "authorLink":"https://github.com/EDDYMENS", 
