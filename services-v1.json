@@ -84,11 +84,11 @@
       ]
    },
    {  
-      "name":"Gmailer",
-      "desc":"Send emails from your app using GMail",
-      "img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/gmail.png",
-      "url":"https://github.com/EDDYMENS/gmailer/raw/master/gmailer.srv",
-      "serviceRepo":"https://github.com/EDDYMENS/gmailer",
+      "name":"ZOHO MAil",
+      "desc":"Send emails from your app using Zoho Mail",
+      "img":"https://raw.githubusercontent.com/EDDYMENS/zohoMail/master/email.png",
+      "url":"https://github.com/EDDYMENS/gmailer/raw/master/zohoMail.srv",
+      "serviceRepo":"https://github.com/EDDYMENS/zohoMail",
       "author":"Eddymens",
       "authorLink":"https://github.com/EDDYMENS", 
       "dep":[]
