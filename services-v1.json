@@ -84,7 +84,7 @@
       ]
    },
    {  
-      "name":"ZOHO MAil",
+      "name":"ZOHOMail",
       "desc":"Send emails from your app using Zoho Mail",
       "img":"https://raw.githubusercontent.com/EDDYMENS/zohoMail/master/email.png",
       "url":"https://github.com/EDDYMENS/zohoMail/raw/master/zohoMail.srv",
