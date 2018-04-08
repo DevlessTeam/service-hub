@@ -110,7 +110,7 @@
       "author":"Eddymens",
       "authorLink":"https://github.com/EDDYMENS", 
       "dep":[]
-   },,{  
+   },{  
       "name":"slackWebHook",
       "desc":"Fire Slack Notifications from DevLess",
       "img":"https://raw.githubusercontent.com/paynegreen/SlackWebhook/master/SlackWebhook.png",
