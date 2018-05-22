@@ -123,7 +123,7 @@
       "name":"slydepay",
       "desc":"Handle payments using slydepay",
       "img":"https://raw.githubusercontent.com/paynegreen/slydepay/master/slydepay.png",
-      "url":"https://github.com/paynegreen/slydepay/blob/master/Slydepay.srv",
+      "url":"https://github.com/paynegreen/slydepay/raw/master/Slydepay.srv",
       "serviceRepo":"https://github.com/paynegreen/slydepay",
       "author":"Edwin",
       "authorLink":"https://github.com/paynegreen", 
