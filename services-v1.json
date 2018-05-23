@@ -128,7 +128,7 @@
       "author":"Edwin",
       "authorLink":"https://github.com/paynegreen", 
       "dep":[]
-   },,{  
+   },{  
       "name":"Elastic Mail",
       "desc":"Send out transactional emails using elastic emails",
       "img":"https://raw.githubusercontent.com/paynegreen/elasticemail/master/elastic_logo.png",
