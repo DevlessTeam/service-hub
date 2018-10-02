@@ -1,141 +1,150 @@
-[  
-   {  
-      "name":"notify",
-      "desc":"Send sms,emails and push within your app ",
-      "img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/notify.png",
-      "url":"https://raw.githubusercontent.com/eddymens/notify/master/notify.srv",
-      "serviceRepo":"https://raw.githubusercontent.com/eddymens/notify",
-      "author":"Kofi Codes",
-      "authorLink":"https://github.com/koficodes",
-      "dep":[  
+[{
+    "name": "notify",
+    "desc": "Send sms,emails and push within your app ",
+    "img": "https://raw.githubusercontent.com/EDDYMENS/service-images/master/notify.png",
+    "url": "https://raw.githubusercontent.com/eddymens/notify/master/notify.srv",
+    "serviceRepo": "https://raw.githubusercontent.com/eddymens/notify",
+    "author": "Kofi Codes",
+    "authorLink": "https://github.com/koficodes",
+    "dep": [
 
-      ]
-   },
-   {  
-      "name":"webconsole",
-      "desc":"Gain teminal access to your server from within DevLess ",
-      "img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/term2.png",
-      "url":"https://github.com/EDDYMENS/webconsole/raw/master/webconsole.srv",
-      "serviceRepo":"https://github.com/EDDYMENS/webconsole",
-      "author":"Eddymens",
-      "authorLink":"https://github.com/eddymens",
-      "dep":[  
+    ]
+  },
+  {
+    "name": "webconsole",
+    "desc": "Gain teminal access to your server from within DevLess ",
+    "img": "https://raw.githubusercontent.com/EDDYMENS/service-images/master/term2.png",
+    "url": "https://github.com/EDDYMENS/webconsole/raw/master/webconsole.srv",
+    "serviceRepo": "https://github.com/EDDYMENS/webconsole",
+    "author": "Eddymens",
+    "authorLink": "https://github.com/eddymens",
+    "dep": [
 
-      ]
-   },
-   {  
-      "name":"db_manager",
-      "desc":"A database manager built right into DevLess. ",
-      "img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/db.png",
-      "url":"https://github.com/EDDYMENS/db_manager/raw/master/db_manager.srv",
-      "serviceRepo":"https://github.com/EDDYMENS/db_manager",
-      "author":"Eddymens",
-      "authorLink":"https://github.com/eddymens",
-      "dep":[  
+    ]
+  },
+  {
+    "name": "db_manager",
+    "desc": "A database manager built right into DevLess. ",
+    "img": "https://raw.githubusercontent.com/EDDYMENS/service-images/master/db.png",
+    "url": "https://github.com/EDDYMENS/db_manager/raw/master/db_manager.srv",
+    "serviceRepo": "https://github.com/EDDYMENS/db_manager",
+    "author": "Eddymens",
+    "authorLink": "https://github.com/eddymens",
+    "dep": [
 
-      ]
-   },
-   {  
-      "name":"weather",
-      "desc":"Get info about current weather for any city",
-      "img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/cloud1.png",
-      "url":"https://github.com/EDDYMENS/dv-weather/raw/master/Weather.srv",
-      "serviceRepo":"https://github.com/EDDYMENS/dv-weather/",
-      "author":"Harisu",
-      "authorLink":"#",
-      "dep":[  
+    ]
+  },
+  {
+    "name": "weather",
+    "desc": "Get info about current weather for any city",
+    "img": "https://raw.githubusercontent.com/EDDYMENS/service-images/master/cloud1.png",
+    "url": "https://github.com/EDDYMENS/dv-weather/raw/master/Weather.srv",
+    "serviceRepo": "https://github.com/EDDYMENS/dv-weather/",
+    "author": "Harisu",
+    "authorLink": "#",
+    "dep": [
 
-      ]
-   },
-   {  
-      "name":"biz_math",
-      "desc":"Perform biz math like finding interest etc",
-      "img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/bm.png",
-      "url":"https://github.com/EDDYMENS/dv-biz_math/raw/master/businessMath.srv",
-      "serviceRepo":"https://github.com/EDDYMENS/dv-biz_math",
-      "author":"Harisu",
-      "authorLink":"#",
-      "dep":[  
+    ]
+  },
+  {
+    "name": "biz_math",
+    "desc": "Perform biz math like finding interest etc",
+    "img": "https://raw.githubusercontent.com/EDDYMENS/service-images/master/bm.png",
+    "url": "https://github.com/EDDYMENS/dv-biz_math/raw/master/businessMath.srv",
+    "serviceRepo": "https://github.com/EDDYMENS/dv-biz_math",
+    "author": "Harisu",
+    "authorLink": "#",
+    "dep": [
 
-      ]
-   },
-   {  
-      "name":"Image_uploader",
-      "desc":"saves images to the cloundinary cloud service",
-      "img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/cloudinary.png",
-      "url":"https://github.com/EDDYMENS/cloudinary/raw/master/uploader.srv",
-      "serviceRepo":"https://github.com/EDDYMENS/cloudinary",
-      "author":"Harisu",
-      "authorLink":"#",
-      "dep":[  
+    ]
+  },
+  {
+    "name": "Image_uploader",
+    "desc": "saves images to the cloundinary cloud service",
+    "img": "https://raw.githubusercontent.com/EDDYMENS/service-images/master/cloudinary.png",
+    "url": "https://github.com/EDDYMENS/cloudinary/raw/master/uploader.srv",
+    "serviceRepo": "https://github.com/EDDYMENS/cloudinary",
+    "author": "Harisu",
+    "authorLink": "#",
+    "dep": [
 
-      ]
-   },
-   {  
-      "name":"ShopIt",
-      "desc":"Quickly build an ecommerce shop",
-      "img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/online-shop.png",
-      "url":"https://github.com/EDDYMENS/shopit/raw/master/shopit.srv",
-      "serviceRepo":"https://github.com/EDDYMENS/shopit",
-      "author":"Kofi Codes",
-      "authorLink":"https://github.com/koficodes",
-      "dep":[  
-         "https://github.com/EDDYMENS/cloudinary/raw/master/uploader.srv"
-      ]
-   },
-   {  
-      "name":"ZOHOMail",
-      "desc":"Send emails from your app using Zoho Mail",
-      "img":"https://raw.githubusercontent.com/EDDYMENS/zohoMail/master/email.png",
-      "url":"https://github.com/EDDYMENS/zohoMail/raw/master/zohoMail.srv",
-      "serviceRepo":"https://github.com/EDDYMENS/zohoMail",
-      "author":"Eddymens",
-      "authorLink":"https://github.com/EDDYMENS", 
-      "dep":[]
-   },{  
-      "name":"MnotifyGH",
-      "desc":"Send SMS from your app using Mnotify",
-      "img":"https://raw.githubusercontent.com/EDDYMENS/service-images/master/sms.png",
-      "url":"https://github.com/EDDYMENS/mnotify/raw/master/mnotify.srv",
-      "serviceRepo":"https://github.com/EDDYMENS/mnotify",
-      "author":"Eddymens",
-      "authorLink":"https://github.com/EDDYMENS", 
-      "dep":[]
-   },{  
-      "name":"PHPClasses",
-      "desc":"Use PHP classes withing Devless Rules",
-      "img":"https://raw.githubusercontent.com/EDDYMENS/phpClass/master/php%20(1).png",
-      "url":"https://github.com/EDDYMENS/phpClass/raw/master/PHPClass.srv",
-      "serviceRepo":"https://github.com/EDDYMENS/phpClass",
-      "author":"Eddymens",
-      "authorLink":"https://github.com/EDDYMENS", 
-      "dep":[]
-   },{  
-      "name":"slackWebHook",
-      "desc":"Fire Slack Notifications from DevLess",
-      "img":"https://raw.githubusercontent.com/paynegreen/SlackWebhook/master/SlackWebhook.png",
-      "url":"https://github.com/paynegreen/SlackWebhook/raw/master/SlackWebhook.srv",
-      "serviceRepo":"https://github.com/paynegreen/SlackWebhook",
-      "author":"Edwin",
-      "authorLink":"https://github.com/paynegreen", 
-      "dep":[]
-   },{  
-      "name":"slydepay",
-      "desc":"Handle payments using slydepay",
-      "img":"https://raw.githubusercontent.com/paynegreen/slydepay/master/slydepay.png",
-      "url":"https://github.com/paynegreen/slydepay/raw/master/Slydepay.srv",
-      "serviceRepo":"https://github.com/paynegreen/slydepay",
-      "author":"Edwin",
-      "authorLink":"https://github.com/paynegreen", 
-      "dep":[]
-   },{  
-      "name":"Elastic Mail",
-      "desc":"Send out transactional emails using elastic emails",
-      "img":"https://raw.githubusercontent.com/paynegreen/elasticemail/master/elastic_logo.png",
-      "url":"https://github.com/paynegreen/elasticemail/raw/master/ElasticEmail.srv",
-      "serviceRepo":"https://github.com/paynegreen/elasticemail",
-      "author":"Edwin",
-      "authorLink":"https://github.com/paynegreen", 
-      "dep":[]
-   }
+    ]
+  },
+  {
+    "name": "ShopIt",
+    "desc": "Quickly build an ecommerce shop",
+    "img": "https://raw.githubusercontent.com/EDDYMENS/service-images/master/online-shop.png",
+    "url": "https://github.com/EDDYMENS/shopit/raw/master/shopit.srv",
+    "serviceRepo": "https://github.com/EDDYMENS/shopit",
+    "author": "Kofi Codes",
+    "authorLink": "https://github.com/koficodes",
+    "dep": [
+      "https://github.com/EDDYMENS/cloudinary/raw/master/uploader.srv"
+    ]
+  },
+  {
+    "name": "ZOHOMail",
+    "desc": "Send emails from your app using Zoho Mail",
+    "img": "https://raw.githubusercontent.com/EDDYMENS/zohoMail/master/email.png",
+    "url": "https://github.com/EDDYMENS/zohoMail/raw/master/zohoMail.srv",
+    "serviceRepo": "https://github.com/EDDYMENS/zohoMail",
+    "author": "Eddymens",
+    "authorLink": "https://github.com/EDDYMENS",
+    "dep": []
+  }, {
+    "name": "MnotifyGH",
+    "desc": "Send SMS from your app using Mnotify",
+    "img": "https://raw.githubusercontent.com/EDDYMENS/service-images/master/sms.png",
+    "url": "https://github.com/EDDYMENS/mnotify/raw/master/mnotify.srv",
+    "serviceRepo": "https://github.com/EDDYMENS/mnotify",
+    "author": "Eddymens",
+    "authorLink": "https://github.com/EDDYMENS",
+    "dep": []
+  }, {
+    "name": "PHPClasses",
+    "desc": "Use PHP classes withing Devless Rules",
+    "img": "https://raw.githubusercontent.com/EDDYMENS/phpClass/master/php%20(1).png",
+    "url": "https://github.com/EDDYMENS/phpClass/raw/master/PHPClass.srv",
+    "serviceRepo": "https://github.com/EDDYMENS/phpClass",
+    "author": "Eddymens",
+    "authorLink": "https://github.com/EDDYMENS",
+    "dep": []
+  }, {
+    "name": "slackWebHook",
+    "desc": "Fire Slack Notifications from DevLess",
+    "img": "https://raw.githubusercontent.com/paynegreen/SlackWebhook/master/SlackWebhook.png",
+    "url": "https://github.com/paynegreen/SlackWebhook/raw/master/SlackWebhook.srv",
+    "serviceRepo": "https://github.com/paynegreen/SlackWebhook",
+    "author": "Edwin",
+    "authorLink": "https://github.com/paynegreen",
+    "dep": []
+  }, {
+    "name": "slydepay",
+    "desc": "Handle payments using slydepay",
+    "img": "https://raw.githubusercontent.com/paynegreen/slydepay/master/slydepay.png",
+    "url": "https://github.com/paynegreen/slydepay/raw/master/Slydepay.srv",
+    "serviceRepo": "https://github.com/paynegreen/slydepay",
+    "author": "Edwin",
+    "authorLink": "https://github.com/paynegreen",
+    "dep": []
+  }, {
+    "name": "Elastic Mail",
+    "desc": "Send out transactional emails using elastic emails",
+    "img": "https://raw.githubusercontent.com/paynegreen/elasticemail/master/elastic_logo.png",
+    "url": "https://github.com/paynegreen/elasticemail/raw/master/ElasticEmail.srv",
+    "serviceRepo": "https://github.com/paynegreen/elasticemail",
+    "author": "Edwin",
+    "authorLink": "https://github.com/paynegreen",
+    "dep": []
+  },
+  {
+    "name": "Job Listings",
+    "desc": "Add job listing capabilities to your website",
+    "img": "https://raw.githubusercontent.com/paynegreen/devless_jobs/master/jobs_logo.png",
+    "url": "https://github.com/paynegreen/devless_jobs/raw/master/jobs.srv",
+    "serviceRepo": "https://github.com/paynegreen/devless_jobs",
+    "author": "Edwin",
+    "authorLink": "https://github.com/paynegreen",
+    "dep": []
+  }
 ]
